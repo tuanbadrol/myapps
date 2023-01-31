@@ -37,7 +37,7 @@ class PageOne extends StatelessWidget {
                     ),
                   )),
             ),
-            Center(child: Text('Badrol UCS')),
+            Center(child: Text('Badrol hisham FBM & UCS')),
             Row(
               mainAxisAlignment: MainAxisAlignment.center,
               children: [
